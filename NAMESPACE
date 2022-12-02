@@ -1,0 +1,4 @@
+importFrom("forecast", "auto.arima")
+importFrom("e1071", "svm")
+importFrom("stats", "predict")
+exportPattern("^[[:alpha:]]+")
